@@ -1,0 +1,145 @@
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\MainApp.exe
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\MainApp.deps.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\MainApp.runtimeconfig.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\Dapper.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\MainApp.csproj.CopyComplete
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\refint\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\MainApp.genruntimeconfig.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Class work\MainApp\obj\Debug\net8.0\ref\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\MainApp.exe
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\MainApp.deps.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\MainApp.runtimeconfig.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\Dapper.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.CopyComplete
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\refint\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\MainApp.genruntimeconfig.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\ref\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 2\Home work\MainApp\obj\Debug\net8.0\MainApp.sourcelink.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\MainApp.exe
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\MainApp.deps.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\MainApp.runtimeconfig.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\Dapper.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.CopyComplete
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\refint\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\MainApp.genruntimeconfig.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 3\Home work\MainApp\obj\Debug\net8.0\ref\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\MainApp.exe
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\MainApp.deps.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\MainApp.runtimeconfig.json
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\Dapper.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.CopyComplete
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\refint\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\MainApp.genruntimeconfig.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\day 4\Home work\MainApp\obj\Debug\net8.0\ref\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\MainApp.exe
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\MainApp.deps.json
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\MainApp.runtimeconfig.json
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\Dapper.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\MainApp.csproj.CopyComplete
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\refint\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\MainApp.genruntimeconfig.cache
+C:\Users\amdhp\Desktop\.Net\Week 1\Exam\MainApp\obj\Debug\net8.0\ref\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\MainApp.exe
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\MainApp.deps.json
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\MainApp.runtimeconfig.json
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\Dapper.dll
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\Npgsql.dll
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\Domain.dll
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\Domain.pdb
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\MainApp.AssemblyInfo.cs
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\MainApp.csproj.CopyComplete
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\refint\MainApp.dll
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\MainApp.pdb
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\MainApp.genruntimeconfig.cache
+C:\Users\amdhp\Desktop\.Net\Week 2\day 1\Home work\MainApp\obj\Debug\net8.0\ref\MainApp.dll
